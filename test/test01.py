@@ -7,3 +7,5 @@ with open("test.txt", "w") as fp:
 with open("test.txt", "r") as fp:
     print("=========[result of read file]=======")
     print(fp.read())
+
+# test01 modified 20230407
